@@ -1,6 +1,6 @@
 ## Learning Input-aware Performance Models of Configurable Systems: An Empirical Evaluation
 
-This is the companion repository of our submission "Learning Input-aware Performance Models of Configurable Systems: An Empirical Evaluation", submitted to JSS in 2023.
+This is the companion repository of our submission "Learning Input-aware Performance Models of Configurable Systems: An Empirical Evaluation", appeared in [Journal of Systems & Software](https://www.sciencedirect.com/science/article/abs/pii/S0164121223002789) [Preprint](https://hal.science/hal-04271476).
 
 ### Organisation
 
